@@ -118,3 +118,4 @@ Include:
 * KPIs and business insights
 * Impact & value delivered
 
+Tableau Public File: https://public.tableau.com/views/HMRetailDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
